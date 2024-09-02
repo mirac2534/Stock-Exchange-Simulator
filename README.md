@@ -2,7 +2,7 @@
 
 # Project Name: Stock Market Simulator
 
-Date: 29.08.2024  
+Date: 2024.09.02
 
 The purpose of this application is to create a simulator version of a stock market application. This project is written in the java programming language. File operations will be applied to make the data persistent. The file name in the project is set according to the extension of my computer. Don't forget to change the file extension.  
 
