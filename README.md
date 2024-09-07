@@ -11,7 +11,7 @@ The purpose of this application is to create a simulator version of a stock mark
 
 ### 1. Menu() Function
 
-Investor Profile
+### 2. Investor Profile
 
 - There will be three options within this.
 
@@ -21,7 +21,7 @@ Investor Profile
 
 - If the user wants to update the profile, the update process will be performed.
 
-### 2. Stock Purchase Screen
+### 3. Stock Purchase Screen
 
 - Take the name of the stock to be purchased, the stock price, the number of shares, and the date of the purchase. The total value will be automatically calculated. If such a stock has been purchased before:
 
@@ -31,7 +31,7 @@ Investor Profile
 
 - Finally, it returns the message "Stock successfully purchased."
 
-### 3. Stock Sale Screen
+### 4. Stock Sale Screen
 
 - First, take the stock name. If correct, take the quantity to be sold, the sale price, and the sale date information.
 
@@ -55,18 +55,18 @@ Investor Profile
 
 - Finally, it returns the message "Stock successfully sold."
 
-### 4. Portfolio Screen
+### 5. Portfolio Screen
 
 Displays the stock name, stock cost, stock quantity, total stock value, and total value of all stocks.
 
-### 5. Transaction History Screen
+### 6. Transaction History Screen
 
 After buying or selling a stock, displays the stock name, purchase/sale price, quantity bought/sold, total value of the bought/sold stock, and the date.
 
-### 6. Exit
+### 7. Exit
 
 To exit the simulator.
 
-### 7. Main() Function
+### 8. Main() Function
 
 First, a password will be requested. If the password is correct, it will proceed to the menu function. If not, the system will exit.
